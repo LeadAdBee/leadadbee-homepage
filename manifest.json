@@ -1,0 +1,16 @@
+{
+  "name": "LeadAdBee",
+  "short_name": "LeadAdBee",
+  "description": "Websites für Handwerk, Praxen & Betreuung",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0A1626",
+  "theme_color": "#0A1626",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
