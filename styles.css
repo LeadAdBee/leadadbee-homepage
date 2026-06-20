@@ -522,6 +522,9 @@ h2.h-sec{ font-size:clamp(31px, 5vw, 54px); line-height:1.04; font-weight:800; l
 .footer-brand .brand-tile{ background:#fff; }
 .footer-brand .brand-word{ color:#fff; }
 .footer-claim{ color:rgba(255,255,255,0.6); margin-top:18px; max-width:34ch; font-size:16px; line-height:1.55; }
+.footer-social{ display:flex; gap:16px; margin-top:18px; }
+.footer-social a{ color:rgba(255,255,255,0.5); transition:color 0.2s; }
+.footer-social a:hover{ color:#fff; }
 .footer-col h4{ font-family:var(--mono); font-size:11.5px; letter-spacing:0.12em; text-transform:uppercase; color:var(--electric-2); font-weight:500; margin-bottom:16px; }
 .footer-col ul{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:11px; }
 .footer-col a, .footer-col li{ color:rgba(255,255,255,0.74); font-size:15.5px; }
