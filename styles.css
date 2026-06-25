@@ -489,8 +489,9 @@ h2.h-sec{ font-size:clamp(31px, 5vw, 54px); line-height:1.04; font-weight:800; l
 }
 .final-cta .final-alt{ margin-top:28px; color:rgba(255,255,255,0.6); }
 .final-cta .final-alt a{ color:var(--electric-2); border-bottom:1px solid currentColor; }
-.final-contacts{ display:flex; flex-wrap:wrap; justify-content:center; gap:8px 24px; margin-top:12px; }
+.final-contacts{ display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:8px 10px; margin-top:12px; }
 .final-contacts a{ color:var(--electric-2); font-weight:600; border-bottom:1px solid currentColor; font-size:16px; white-space:nowrap; }
+.fc-sep{ color:rgba(255,255,255,0.35); font-size:16px; }
 
 .contact-form{ background:#fff; border-radius:var(--r); padding:clamp(26px,3.4vw,38px);
   box-shadow:var(--shadow); display:grid; grid-template-columns:1fr 1fr; gap:18px; }
